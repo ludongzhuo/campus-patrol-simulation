@@ -1,6 +1,6 @@
 # 校园巡逻问题仿真
 
-SJTU 网络智能优化课程AU339的大作业，与cyh、ldz同学共同完成
+SJTU 网络智能优化课程AU339的大作业，与cyh、[ldz](https://github.com/ludongzhuo/)同学共同完成
 
 代码：<br>
 [graph.py](graph.py)：主程序文件，含TSP蚁群算法求解、Markov对抗、仿真过程<br>
